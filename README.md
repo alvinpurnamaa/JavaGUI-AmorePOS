@@ -1,1 +1,1 @@
-# Java-GUI
+# JavaGUI - AmorePOS
